@@ -4,7 +4,7 @@ html{
 
 @font-face {
   font-family: "Neutro";
-  src: url("../fonts/Neutro-Bold.woff") format("woff");
+  src: url("Neutro-Bold.woff") format("woff");
 }
 
 /* body {
